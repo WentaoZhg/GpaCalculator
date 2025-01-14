@@ -1,0 +1,20 @@
+.footer {
+    background-color: bg-success;
+    /* background-color: #a4c991; */
+    padding: 10px 20px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+a:link {
+    color: black;
+    font-weight: bold;
+  }
+  

@@ -1,0 +1,652 @@
+.list {
+    text-align: left;
+    max-width: 750px;
+    margin: auto;
+}
+
+.submit-form {
+    max-width: 800px;
+    margin: auto;
+}
+
+.edit-form {
+    max-width: 300px;
+    margin: auto;
+}
+
+/* ======================================== */
+.desktop-home {
+    background-color: #a43c3c;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.desktop-home .div {
+    background-color: #6c2828;
+    height: 90px;
+    width: 100%;
+    position: relative;
+    left: 0px;
+}
+
+.desktop-home .overlap {
+    height: 212px;
+    left: 0;
+    position: absolute;
+    top: -17px;
+    width: 1440px;
+}
+
+.desktop-home .overlap-group {
+    height: 212px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+}
+
+.desktop-home .rectangle-top {
+    height: 92px;
+    width: 1440px;
+    left: 0;
+    position: absolute;
+    top: 17px;
+
+}
+
+.desktop-home .gpa-calculator-title {
+    color: #ffffff;
+    font-family: "Manrope", Helvetica;
+    font-size: 48px;
+    font-weight: 700;
+    top: 35px;
+    left: 185px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+}
+
+.desktop-home .format-button {
+    background-color: #7e2323;
+    height: 64px;
+    left: 903px;
+    position: absolute;
+    top: 30px;
+    width: 190px;
+}
+
+.desktop-home .instructions-button {
+    background-color: #7e2323;
+    height: 64px;
+    left: 1118px;
+    position: absolute;
+    top: 30px;
+    width: 307px;
+}
+
+.desktop-home .instructions-text {
+    color: #ffffff;
+    font-family: "Manrope", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    left: 1186px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 40px;
+}
+
+.desktop-home .format-text {
+    color: #ffffff;
+    font-family: "Manrope", Helvetica;
+    font-size: 25px;
+    font-weight: 400;
+    left: 950px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 55px;
+    white-space: nowrap;
+    width: 99px;
+}
+
+.desktop-home .credits-text {
+    color: #ffffff;
+    font-family: "Manrope", Helvetica;
+    font-size: 30px;
+    font-weight: 700;
+    left: 680px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 171px;
+}
+
+.desktop-home .grant-logo {
+    height: 85px;
+    width: 85px;
+    left: 20px;
+    object-fit: cover;
+    position: absolute;
+    top: 20px;
+
+}
+
+.desktop-home .course-text {
+    color: #ffffff;
+    font-family: "Manrope", Helvetica;
+    font-size: 30px;
+    font-weight: 700;
+    left: 242px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 171px;
+}
+
+.desktop-home .grade-text {
+    color: #ffffff;
+    font-family: "Manrope", Helvetica;
+    font-size: 30px;
+    font-weight: 700;
+    left: 1127px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 171px;
+}
+
+/*==================================================*/
+.desktop-home2 {
+    background-color: #a43c3c;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.desktop-home2 .overlap-2 {
+    background-image: url(https://c.animaapp.com/D9J6AFPs/img/rectanglebottom.svg);
+    background-size: 100% 100%;
+    height: 60px;
+    left: 0;
+    position: absolute;
+    top: 1100px;
+    width: 1440px;
+}
+
+.desktop-home2 .school-text {
+    color: #ffffff;
+    font-family: "Manrope", Helvetica;
+    font-size: 15px;
+    font-weight: 400;
+    left: 509px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 7px;
+    width: 423px;
+}
+
+.desktop-home2 .property-text {
+    color: #ffffff;
+    font-family: "Manrope", Helvetica;
+    font-size: 15px;
+    font-weight: 400;
+    left: 541px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 29px;
+    width: 359px;
+}
+
+.desktop-home2 .overlap-group-2 {
+    height: 48px;
+    left: 91px;
+    position: absolute;
+    top: 811px;
+    width: 190px;
+}
+
+.desktop-home2 .unweighted-button-bg {
+    background-color: #7e2323;
+    height: 45px;
+    left: 0;
+    position: absolute;
+    top: 3px;
+    width: 190px;
+}
+
+.desktop-home2 .unweighted-button {
+    color: #ffffff;
+    font-family: "Manrope", Helvetica;
+    font-size: 28px;
+    font-weight: 400;
+    left: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+}
+
+.desktop-home2 .text-wrapper {
+    color: #ffffff;
+    font-family: "Manrope", Helvetica;
+    font-size: 28px;
+    font-weight: 400;
+    letter-spacing: 0;
+}
+
+.desktop-home2 .span {
+    font-size: 30px;
+}
+
+.desktop-home2 .overlap-3 {
+    height: 47px;
+    left: 91px;
+    position: absolute;
+    top: 867px;
+    width: 190px;
+}
+
+.desktop-home2 .weighted-button-bg {
+    background-color: #7e2323;
+    height: 45px;
+    left: 0;
+    position: absolute;
+    top: 2px;
+    width: 190px;
+}
+
+.desktop-home2 .weighted-button {
+    color: #ffffff;
+    font-family: "Manrope", Helvetica;
+    font-size: 28px;
+    font-weight: 400;
+    left: 29px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+}
+
+.desktop-home2 .calculate-button-wrapper {
+    background-color: #7e2323;
+    height: 64px;
+    left: 636px;
+    position: absolute;
+    top: 656px;
+    width: 190px;
+}
+
+.desktop-home2 .calculate-button {
+    color: #ffffff;
+    font-family: "Manrope", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    left: 29px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 11px;
+    white-space: nowrap;
+    width: 133px;
+}
+
+.desktop-home2 .overlap-4 {
+    height: 41px;
+    left: 63px;
+    position: absolute;
+    top: 586px;
+    width: 20px;
+}
+
+.desktop-home2 .remove-button-bg {
+    background-color: #7e2323;
+    height: 22px;
+    left: 0;
+    position: absolute;
+    top: 12px;
+    width: 20px;
+}
+
+.desktop-home2 .remove-button {
+    color: #ffffff;
+    font-family: "Manrope", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 20px;
+}
+
+.desktop-home2 .course {
+    background-color: #ffffff;
+    border: 2px solid;
+    border-color: #000000;
+    height: 45px;
+    left: 91px;
+    position: absolute;
+    top: 420px;
+    width: 409px;
+}
+
+.desktop-home2 .course-2 {
+    background-color: #ffffff;
+    border: 2px solid;
+    border-color: #000000;
+    height: 45px;
+    left: 91px;
+    position: absolute;
+    top: 365px;
+    width: 409px;
+}
+
+.desktop-home2 .course-3 {
+    background-color: #ffffff;
+    border: 2px solid;
+    border-color: #000000;
+    height: 45px;
+    left: 91px;
+    position: absolute;
+    top: 309px;
+    width: 409px;
+}
+
+.desktop-home2 .course-4 {
+    background-color: #ffffff;
+    border: 2px solid;
+    border-color: #000000;
+    height: 45px;
+    left: 91px;
+    position: absolute;
+    top: 254px;
+    width: 409px;
+}
+
+.desktop-home2 .course-5 {
+    background-color: #ffffff;
+    border: 2px solid;
+    border-color: #000000;
+    height: 45px;
+    left: 91px;
+    position: absolute;
+    top: 199px;
+    width: 409px;
+}
+
+.desktop-home2 .weighted-calculation {
+    background-color: #ffffff;
+    border: 2px solid;
+    border-color: #000000;
+    height: 45px;
+    left: 288px;
+    position: absolute;
+    top: 869px;
+    width: 409px;
+}
+
+.desktop-home2 .unweighted {
+    background-color: #ffffff;
+    border: 2px solid;
+    border-color: #000000;
+    height: 45px;
+    left: 288px;
+    position: absolute;
+    top: 814px;
+    width: 409px;
+}
+
+.desktop-home2 .course-6 {
+    background-color: #ffffff;
+    border: 2px solid;
+    border-color: #000000;
+    height: 45px;
+    left: 91px;
+    position: absolute;
+    top: 530px;
+    width: 409px;
+}
+
+.desktop-home2 .course-7 {
+    background-color: #ffffff;
+    border: 2px solid;
+    border-color: #000000;
+    height: 45px;
+    left: 91px;
+    position: absolute;
+    top: 475px;
+    width: 409px;
+}
+
+.desktop-home2 .grade {
+    background-color: #ffffff;
+    border: 2px solid;
+    border-color: #000000;
+    height: 45px;
+    left: 967px;
+    position: absolute;
+    top: 420px;
+    width: 409px;
+}
+
+.desktop-home2 .grade-2 {
+    background-color: #ffffff;
+    border: 2px solid;
+    border-color: #000000;
+    height: 45px;
+    left: 967px;
+    position: absolute;
+    top: 365px;
+    width: 409px;
+}
+
+.desktop-home2 .grade-3 {
+    background-color: #ffffff;
+    border: 2px solid;
+    border-color: #000000;
+    height: 45px;
+    left: 967px;
+    position: absolute;
+    top: 309px;
+    width: 409px;
+}
+
+.desktop-home2 .grade-4 {
+    background-color: #ffffff;
+    border: 2px solid;
+    border-color: #000000;
+    height: 45px;
+    left: 967px;
+    position: absolute;
+    top: 254px;
+    width: 409px;
+}
+
+.desktop-home2 .grade-5 {
+    background-color: #ffffff;
+    border: 2px solid;
+    border-color: #000000;
+    height: 45px;
+    left: 967px;
+    position: absolute;
+    top: 199px;
+    width: 409px;
+}
+
+.desktop-home2 .grade-6 {
+    background-color: #ffffff;
+    border: 2px solid;
+    border-color: #000000;
+    height: 45px;
+    left: 967px;
+    position: absolute;
+    top: 530px;
+    width: 409px;
+}
+
+.desktop-home2 .grade-7 {
+    background-color: #ffffff;
+    border: 2px solid;
+    border-color: #000000;
+    height: 45px;
+    left: 967px;
+    position: absolute;
+    top: 475px;
+    width: 409px;
+}
+
+.desktop-home2 .credits {
+    background-color: #ffffff;
+    border: 2px solid;
+    border-color: #000000;
+    height: 45px;
+    left: 529px;
+    position: absolute;
+    top: 420px;
+    width: 409px;
+}
+
+.desktop-home2 .credits-2 {
+    background-color: #ffffff;
+    border: 2px solid;
+    border-color: #000000;
+    height: 45px;
+    left: 529px;
+    position: absolute;
+    top: 365px;
+    width: 409px;
+}
+
+.desktop-home2 .credits-3 {
+    background-color: #ffffff;
+    border: 2px solid;
+    border-color: #000000;
+    height: 45px;
+    left: 529px;
+    position: absolute;
+    top: 309px;
+    width: 409px;
+}
+
+.desktop-home2 .credits-4 {
+    background-color: #ffffff;
+    border: 2px solid;
+    border-color: #000000;
+    height: 45px;
+    left: 529px;
+    position: absolute;
+    top: 254px;
+    width: 409px;
+}
+
+.desktop-home2 .credits-5 {
+    background-color: #ffffff;
+    border: 2px solid;
+    border-color: #000000;
+    height: 45px;
+    left: 529px;
+    position: absolute;
+    top: 199px;
+    width: 409px;
+}
+
+.desktop-home2 .credits-6 {
+    background-color: #ffffff;
+    border: 2px solid;
+    border-color: #000000;
+    height: 45px;
+    left: 529px;
+    position: absolute;
+    top: 530px;
+    width: 409px;
+}
+
+.desktop-home2 .credits-7 {
+    background-color: #ffffff;
+    border: 2px solid;
+    border-color: #000000;
+    height: 45px;
+    left: 529px;
+    position: absolute;
+    top: 475px;
+    width: 409px;
+}
+
+.desktop-home2 .overlap-5 {
+    height: 41px;
+    left: 63px;
+    position: absolute;
+    top: 531px;
+    width: 20px;
+}
+
+.desktop-home2 .overlap-6 {
+    height: 41px;
+    left: 63px;
+    position: absolute;
+    top: 476px;
+    width: 20px;
+}
+
+.desktop-home2 .course-8 {
+    background-color: #ffffff;
+    border: 2px solid;
+    border-color: #000000;
+    height: 45px;
+    left: 91px;
+    position: absolute;
+    top: 585px;
+    width: 409px;
+}
+
+.desktop-home2 .grade-8 {
+    background-color: #ffffff;
+    border: 2px solid;
+    border-color: #000000;
+    height: 45px;
+    left: 967px;
+    position: absolute;
+    top: 585px;
+    width: 409px;
+}
+
+.desktop-home2 .credits-8 {
+    background-color: #ffffff;
+    border: 2px solid;
+    border-color: #000000;
+    height: 45px;
+    left: 529px;
+    position: absolute;
+    top: 585px;
+    width: 409px;
+}
+
+.desktop-home2 .gpa-avg-text {
+    color: #ffffff;
+    font-family: "Manrope", Helvetica;
+    font-size: 30px;
+    font-weight: 700;
+    left: 489px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 760px;
+    white-space: nowrap;
+    width: 460px;
+}
+
+.desktop-home2 .line {
+    height: 1px;
+    left: 91px;
+    position: absolute;
+    top: 746px;
+    width: 1285px;
+}
